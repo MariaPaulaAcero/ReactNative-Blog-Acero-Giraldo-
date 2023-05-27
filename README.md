@@ -8,7 +8,7 @@
 
 ## Comandos utilizados 
 
-npx react-native init NativeBlog
-cd NativeBlog
-code . ; npm start
-npm run android
+## npx react-native init NativeBlog
+## cd NativeBlog
+## code . ; npm start
+## npm run android
